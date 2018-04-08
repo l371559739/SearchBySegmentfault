@@ -1,15 +1,15 @@
 # SearchBySegmentfault
 
-search by segmentfault
+使用segmentfault进行搜索
 
 ## How to install
 
-- in Android Studio or any other IntelliJ IDE: go to `Preferences → Plugins → Browse repositories` and search for `SearchBySegmentfault`
+- 使用SearchBySegmentfault.jar。
+- 通过Intellij IDEA 的插件库进行安装
 
 ## How to use it
 
- 1. Select the text, code snippet or error message and right-click
- 2. Select "Search By Segmentfault"
+参考隔壁SearchByBaidu
 
 
 ## Thanks
